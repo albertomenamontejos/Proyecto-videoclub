@@ -1,0 +1,25 @@
+.row-more{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: center;
+}
+.btn-nuevo-videoclub{
+    background: #f2f2f2;
+    border:1px solid #f8f8f8;
+    border-radius: 10px;
+    padding:15px;
+    cursor:pointer;
+    display: inline;
+}
+.btn-nuevo-videoclub img, .btn-nuevo-videoclub p{
+    margin-top:10px;
+}
+.btn-nuevo-videoclub:hover {
+    background: #fff;
+    border:1px solid #6c757d;
+}
+
+.formulario{
+    display:flex;
+
+}
