@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../INTERFACES_WEB/Tema3/PapaHijo/v1.html" line="15" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c9072c5-0bc3-4e2b-a6e1-94c41a3eec69" name="Default Changelist" comment="" />
+    <list default="true" id="4c9072c5-0bc3-4e2b-a6e1-94c41a3eec69" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/generales.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gestion/js/gestion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/alquil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/atras.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/atrasw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/client.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/dev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/film.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/send.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/manejo/datos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/manejo/tareas.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/alquilar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/devolucion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/js/alquilar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/js/devolucion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/js/prod_alquilados.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/js/uso.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/js/ver_clientes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/js/ver_productos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/js/videoclub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/prod_alquilados.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/ver_clientes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/ver_productos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uso/videoclub.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/css/Bootstrap/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/docs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/gestion.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gestion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gestion/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Cd.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/clases/Cd.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Cliente.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/clases/Cliente.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Juego.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/clases/Juego.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Pelicula.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/clases/Pelicula.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Producto.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/clases/Producto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/Videoclub.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/clases/Videoclub.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uso/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uso/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,118 +80,180 @@
     <favorites_list name="Alberto_Mena_videoclub" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6673209">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/Cd.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="483">
-                  <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="22" selection-end-column="30" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/Videoclub.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1219">
-                  <caret line="53" selection-start-line="53" selection-end-line="53" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/Pelicula.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="667">
-                  <caret line="29" selection-start-line="29" selection-start-column="3" selection-end-line="30" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/Juego.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="460">
-                  <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/Producto.js">
-              <provider selected="true" editor-type-id="text-editor" />
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/gestion/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="446">
-                  <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/docs.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="23">
-                  <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="161">
-                  <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/gestion.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="529">
-                  <caret line="23" selection-start-line="23" selection-end-line="23" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uso/videoclub.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gestion/js/gestion.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-621">
+              <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uso/js/videoclub.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uso/devolucion.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uso/prod_alquilados.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uso/ver_clientes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uso/ver_productos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/manejo/tareas.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!block;n#buscarCliente#0" />
+                <element signature="n#!!block;n#mostrarVideoClubsUSO#0" />
+                <element signature="n#!!block;n#imprimirTitulo#0" />
+                <element signature="n#!!block;n#selectClientes#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/manejo/datos.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1587">
+              <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>compro</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hola.php" />
-        <option value="$PROJECT_DIR$/js/Cliente.js" />
-        <option value="$PROJECT_DIR$/prueba.html" />
         <option value="$PROJECT_DIR$/js/Producto.js" />
         <option value="$PROJECT_DIR$/js/Videoclub.js" />
         <option value="$PROJECT_DIR$/js/Cd.js" />
         <option value="$PROJECT_DIR$/js/Pelicula.js" />
         <option value="$PROJECT_DIR$/js/Juego.js" />
+        <option value="$PROJECT_DIR$/css/docs.txt" />
+        <option value="$PROJECT_DIR$/js/manejo/lib-tareas.js" />
+        <option value="$PROJECT_DIR$/pruebas/prueba2.html" />
+        <option value="$PROJECT_DIR$/pruebas/prueba.js" />
+        <option value="$PROJECT_DIR$/pruebas/prueba.html" />
+        <option value="$PROJECT_DIR$/gestion/videoclub.html" />
+        <option value="$PROJECT_DIR$/gestion/js/videoclub.js" />
+        <option value="$PROJECT_DIR$/ver_clientes.html" />
+        <option value="$PROJECT_DIR$/gestion/js/ver_clientes.js" />
+        <option value="$PROJECT_DIR$/gestion/js/ver_productos.js" />
+        <option value="$PROJECT_DIR$/gestion/ver_productos.html" />
+        <option value="$PROJECT_DIR$/gestion/ver_clientes.html" />
+        <option value="$PROJECT_DIR$/gestion/ver_prod_cli.html" />
+        <option value="$PROJECT_DIR$/gestion/js/ver_prod_cli.js" />
+        <option value="$PROJECT_DIR$/uso/js/uso.js" />
+        <option value="$PROJECT_DIR$/uso/js/ver_prod_cli.js" />
+        <option value="$PROJECT_DIR$/js/clases/Videoclub.js" />
+        <option value="$PROJECT_DIR$/css/gestion.css" />
+        <option value="$PROJECT_DIR$/uso/js/videoclub.js" />
+        <option value="$PROJECT_DIR$/uso/js/prod_alquilados.js" />
+        <option value="$PROJECT_DIR$/uso/js/ver_productos.js" />
+        <option value="$PROJECT_DIR$/uso/js/ver_clientes.js" />
+        <option value="$PROJECT_DIR$/js/clases/Producto.js" />
+        <option value="$PROJECT_DIR$/js/clases/Juego.js" />
+        <option value="$PROJECT_DIR$/js/clases/Pelicula.js" />
+        <option value="$PROJECT_DIR$/js/clases/Cd.js" />
+        <option value="$PROJECT_DIR$/css/generales.css" />
+        <option value="$PROJECT_DIR$/js/clases/Cliente.js" />
+        <option value="$PROJECT_DIR$/uso/js/devolucion.js" />
+        <option value="$PROJECT_DIR$/uso/js/alquilar.js" />
+        <option value="$PROJECT_DIR$/dd/p.js" />
+        <option value="$PROJECT_DIR$/dd/val.js" />
+        <option value="$PROJECT_DIR$/dd/validacionFormulario.html" />
+        <option value="$PROJECT_DIR$/dd/validacion.html" />
+        <option value="$PROJECT_DIR$/gestion/js/gestion.js" />
+        <option value="$PROJECT_DIR$/gestion/index.html" />
+        <option value="$PROJECT_DIR$/js/manejo/datos.js" />
+        <option value="$PROJECT_DIR$/js/manejo/tareas.js" />
+        <option value="$PROJECT_DIR$/uso/alquilar.html" />
+        <option value="$PROJECT_DIR$/uso/devolucion.html" />
+        <option value="$PROJECT_DIR$/uso/prod_alquilados.html" />
+        <option value="$PROJECT_DIR$/uso/ver_clientes.html" />
+        <option value="$PROJECT_DIR$/uso/ver_productos.html" />
+        <option value="$PROJECT_DIR$/uso/videoclub.html" />
         <option value="$PROJECT_DIR$/uso/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/docs.txt" />
-        <option value="$PROJECT_DIR$/gestion/index.html" />
-        <option value="$PROJECT_DIR$/css/gestion.css" />
       </list>
     </option>
   </component>
@@ -136,34 +263,66 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="520" />
+    <option name="y" value="20" />
+    <option name="width" value="1295" />
+    <option name="height" value="865" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Alberto_Mena_videoclub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alberto_Mena_videoclub" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alberto_Mena_videoclub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alberto_Mena_videoclub" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Alberto_Mena_videoclub" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Alberto_Mena_videoclub" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="manejo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/src/dict/spanish.dic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alberto\Documents\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\dd" />
+      <recent name="C:\Users\alberto\Documents\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\img" />
+      <recent name="C:\Users\alberto\OneDrive\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\uso" />
+      <recent name="C:\Users\alberto\OneDrive\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\uso\js" />
       <recent name="C:\Users\alberto\OneDrive\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\img" />
-      <recent name="C:\Users\alberto\OneDrive\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\css" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alberto\Documents\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\dd" />
+      <recent name="C:\Users\alberto\OneDrive\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\img" />
+      <recent name="C:\Users\alberto\OneDrive\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\css" />
       <recent name="C:\Users\alberto\OneDrive\MODULO2\DWE_CLIENTE\Alberto_Mena_videoclub\css\bootstrap" />
     </key>
   </component>
@@ -179,7 +338,7 @@
       </list>
     </option>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="C:\Users\alberto\Desktop\src\dict" CustomDictionaries="1" CustomDictionary0="C:\Users\alberto\Desktop\src\dict\spanish.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="C:\Program Files\JetBrains\WebStorm 2018.3\plugins\SpellingSpanish\src\dict" CustomDictionaries="1" CustomDictionary0="C:\Program Files\JetBrains\WebStorm 2018.3\plugins\SpellingSpanish\src\dict\spanish.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -195,12 +354,62 @@
       <workItem from="1544728641690" duration="7454000" />
       <workItem from="1544767988291" duration="835000" />
       <workItem from="1544768840115" duration="643000" />
-      <workItem from="1544770139950" duration="1434000" />
+      <workItem from="1544770139950" duration="8045000" />
+      <workItem from="1544782122705" duration="1764000" />
+      <workItem from="1544783913011" duration="15155000" />
+      <workItem from="1544967984211" duration="12465000" />
+      <workItem from="1545030108236" duration="9000" />
+      <workItem from="1545030424924" duration="118000" />
+      <workItem from="1545041889999" duration="6076000" />
+      <workItem from="1545066859452" duration="8669000" />
+      <workItem from="1545133894539" duration="15706000" />
+      <workItem from="1545213603196" duration="8181000" />
+      <workItem from="1545318464498" duration="7926000" />
+      <workItem from="1545507480926" duration="1921000" />
+      <workItem from="1545563401719" duration="596000" />
+      <workItem from="1545599713452" duration="21032000" />
+      <workItem from="1545917866460" duration="281000" />
+      <workItem from="1546416115846" duration="529000" />
+      <workItem from="1546548930430" duration="4916000" />
+      <workItem from="1546606009452" duration="5547000" />
+      <workItem from="1546766056161" duration="11858000" />
+      <workItem from="1546781982683" duration="282000" />
+      <workItem from="1546845590730" duration="76000" />
+      <workItem from="1546856353640" duration="1028000" />
+      <workItem from="1546869763204" duration="15835000" />
+      <workItem from="1546930891277" duration="52000" />
+      <workItem from="1546942933176" duration="667000" />
+      <workItem from="1546973454449" duration="8361000" />
+      <workItem from="1547022730549" duration="61000" />
+      <workItem from="1547033793907" duration="5961000" />
+      <workItem from="1547056956215" duration="73000" />
+      <workItem from="1547059403431" duration="10875000" />
+      <workItem from="1547114641671" duration="17000" />
+      <workItem from="1547116837901" duration="1157000" />
+      <workItem from="1547123970521" duration="3524000" />
+      <workItem from="1547140054025" duration="10527000" />
+      <workItem from="1547198745460" duration="560000" />
+      <workItem from="1547201455167" duration="10332000" />
+      <workItem from="1547236510006" duration="10000" />
+      <workItem from="1547236543955" duration="5554000" />
+      <workItem from="1547298122483" duration="37398000" />
+      <workItem from="1547456913937" duration="32000" />
+      <workItem from="1547490835157" duration="6109000" />
+      <workItem from="1547542507805" duration="50000" />
+      <workItem from="1547542825699" duration="53000" />
+      <workItem from="1547557795353" duration="17186000" />
+      <workItem from="1547753453657" duration="81000" />
+      <workItem from="1548241347425" duration="583000" />
+      <workItem from="1548241943575" duration="22000" />
+      <workItem from="1548313565928" duration="162000" />
+      <workItem from="1548324265546" duration="40000" />
+      <workItem from="1548326981066" duration="1319000" />
+      <workItem from="1548328387591" duration="886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36463000" />
+    <option name="totallyTimeSpent" value="304696000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -212,114 +421,52 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1057" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992658" visible="true" weight="0.18869427" />
-      <window_info id="Structure" order="1" sideWeight="0.5007342" side_tool="true" visible="true" weight="0.18869427" />
-      <window_info id="Favorites" order="2" side_tool="true" weight="0.32961783" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57361114" visible="true" weight="0.08592201" />
+      <window_info id="Structure" order="1" sideWeight="0.4263889" side_tool="true" weight="0.13284865" />
+      <window_info id="Favorites" order="2" sideWeight="0.4263889" side_tool="true" weight="0.13284865" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289855" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3276414" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" x="11" y="303" width="1513" height="227" id="Terminal" order="9" sideWeight="0.49966952" visible="true" weight="0.24164811" />
+      <window_info anchor="bottom" x="11" y="303" width="1513" height="227" id="Terminal" order="9" sideWeight="0.49966952" visible="true" weight="0.041666668" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033045" side_tool="true" weight="0.24202898" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.57361114" visible="true" weight="0.15484634" />
+      <window_info id="Structure" order="1" sideWeight="0.4263889" side_tool="true" weight="0.13284865" />
+      <window_info id="Favorites" order="2" sideWeight="0.4263889" side_tool="true" weight="0.13284865" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3276414" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" x="11" y="303" width="1513" height="227" id="Terminal" order="9" sideWeight="0.49966952" weight="0.40341514" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033045" side_tool="true" weight="0.24202898" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/WebstormProjects/videoclub/src/js/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/C:/Users/alberto/OneDrive/MODULO2/DWE_CLIENTE/Alberto_Mena_videoclub">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$</OriginalElement>
-          <nodes>
-            <node x="" y="">$PROJECT_DIR$/js/Producto.js</node>
-            <node x="" y="">$PROJECT_DIR$/prueba.html</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="58.0" y="68.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/C:/Users/alberto/OneDrive/MODULO2/DWE_CLIENTE/Alberto_Mena_videoclub/js/Cd.js">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/js/Cd.js</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="568.0" y="200.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram/C:/Users/alberto/OneDrive/MODULO2/DWE_CLIENTE/Alberto_Mena_videoclub/js/Producto.js">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/js/Producto.js</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="568.0" y="200.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hola.php" />
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="907">
-          <caret line="124" column="4" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/uso/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Cliente.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/css/Bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/more.png">
@@ -328,64 +475,275 @@
     <entry file="file://$PROJECT_DIR$/img/morehover.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Cd.js">
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/alberto.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" selection-start-line="21" selection-start-column="3" selection-end-line="22" selection-end-column="30" />
+        <state relative-caret-position="46">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/Videoclub.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1219">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Pelicula.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="667">
-          <caret line="29" selection-start-line="29" selection-start-column="3" selection-end-line="30" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Juego.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/Producto.js">
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/docs.txt">
+    <entry file="file://$PROJECT_DIR$/css/Bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/Bootstrap/index.html" />
+    <entry file="file://$PROJECT_DIR$/pruebas/prueba2.html" />
+    <entry file="file://$PROJECT_DIR$/img/videoclub.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../INTERFACES_WEB/Tema3/PapaHijo/v1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../INTERFACES_WEB/Tema3/PapaHijo/v2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pruebas/prueba.js" />
+    <entry file="file://$PROJECT_DIR$/pruebas/prueba.html" />
+    <entry file="file://$PROJECT_DIR$/gestion/js/ver_clientes.js" />
+    <entry file="file://$PROJECT_DIR$/gestion/ver_clientes.html" />
+    <entry file="file://$PROJECT_DIR$/img/send.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/ver_prod_cli.html" />
+    <entry file="file://$PROJECT_DIR$/uso/js/ver_prod_cli.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gestion/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <caret line="17174" column="12" selection-start-line="17174" selection-start-column="12" selection-end-line="17174" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/gestion.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="-1746">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/uso/js/uso.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/docs.txt" />
+    <entry file="file://$PROJECT_DIR$/uso/js/prod_alquilados.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="84" column="39" selection-start-line="84" selection-start-column="39" selection-end-line="84" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/js/ver_clientes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/js/ver_productos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="87" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/generales.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="43" column="15" lean-forward="true" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dd/val-form.js" />
+    <entry file="file://$PROJECT_DIR$/dd/val.js" />
+    <entry file="file://$PROJECT_DIR$/dd/validacionFormulario.html" />
+    <entry file="file://$PROJECT_DIR$/dd/validacion.html" />
+    <entry file="file://$PROJECT_DIR$/js/clases/Producto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/clases/Pelicula.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="68" selection-end-line="2" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/clases/Cd.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/js/alquilar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/clases/Cliente.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/clases/Juego.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/js/devolucion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="155" column="23" selection-start-line="155" selection-start-column="23" selection-end-line="155" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gestion/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="89" column="75" selection-start-line="89" selection-start-column="75" selection-end-line="89" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/clases/Videoclub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="85" column="5" lean-forward="true" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/alquilar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/devolucion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/prod_alquilados.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="27" column="24" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/ver_clientes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/ver_productos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/js/videoclub.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uso/videoclub.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gestion/js/gestion.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="45" column="39" selection-start-line="45" selection-start-column="39" selection-end-line="45" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-621">
+          <caret line="33" column="16" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/manejo/tareas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#buscarCliente#0" />
+            <element signature="n#!!block;n#mostrarVideoClubsUSO#0" />
+            <element signature="n#!!block;n#imprimirTitulo#0" />
+            <element signature="n#!!block;n#selectClientes#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/manejo/datos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1587">
+          <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

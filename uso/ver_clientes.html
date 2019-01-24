@@ -7,11 +7,9 @@
     <link rel="stylesheet" href="../css/Bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="../css/generales.css">
     <link rel="stylesheet" href="../css/gestion.css">
-    <script src="js/uso.js"></script>
-    <script src="../js/manejo/tareas.js"></script>
+    <script src="../gestion/js/gestion.js"></script>
     <script src="../js/clases/Producto.js"></script>
     <script src="../js/clases/Cliente.js"></script>
-
     <script src="../js/clases/Cd.js"></script>
     <script src="../js/clases/Pelicula.js"></script>
     <script src="../js/clases/Juego.js"></script>
@@ -21,38 +19,34 @@
     <script src="../css/Bootstrap/js/jquery-3.3.1.min.js"></script>
     <script src="../css/Bootstrap/js/popper.min.js"></script>
     <script src="../css/Bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/ver_clientes.js"></script>
+
 </head>
 <body>
-<div class="pagina">
-    <div class="enlaces text-center  p-5">
-        <div class="menu">
+<div class="pagina  bg-dark">
+    <div class="enlaces text-center p-5">
+        <div class="menu ">
             <a href="../index.html">
                 <div class="caja-enlace">
                     GESTIÓN
                 </div>
             </a>
-            <a href="../uso/index.html">
+            <a href="index.html">
                 <div class="caja-enlace">
                     USO
                 </div>
             </a>
         </div>
     </div>
-    <div class="row caja-videoclubs pt-5">
-        <div class="col-10 ">
-            <div class="row border border-1 rounded">
-                <header class="header-videoclubs p-3 border-bottom w-100 text-center">Selecciona un videoclub</header>
-                <div class="col-12   p-2 ">
-                    <div class="row row-videoclubs">
-                        <div class="col-12  m-5" id="lista-videoclubs">
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="contenedor" id="contenedor">
     </div>
+    <div class="ml-5 pb-3">
+        <h3 class="text-white mb-4">Ver clientes</h3>
+        <a class="text-info m-3" href="videoclub.html"><img src="../img/atrasw.png" class=" mr-3" alt="">Volver atrás</a>
+    </div>
+<section class="bg-white d-flex flex-row flex-wrap" id="seccion"></section>
 </div>
 
 </body>
 </html>
+

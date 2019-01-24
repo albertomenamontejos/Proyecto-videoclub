@@ -1,0 +1,52 @@
+
+
+.mostrar{
+    display:flex;
+}
+
+.ocultar{
+    display:none;
+}
+
+.pagina{
+    width: 100%;
+    overflow: hidden;
+}
+
+.enlaces{
+    margin:0 auto;
+    background: url('../img/180.jpg') no-repeat;
+    background-size:cover;
+
+}
+.enlaces .menu{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    width:50%;
+    margin:0 auto;
+}
+.enlaces .menu .caja-enlace{
+    width:120px;
+    height: 120px;
+    border: 8px solid #fff;
+    border-radius: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background: #363636;
+}
+.enlaces .menu .caja-enlace:hover{
+    border:10px solid rgba(145, 145, 145, 0.49);
+    background: #fff;
+}
+.enlaces a{
+    color:#fff;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: "Century Gothic" ,"Times New Roman";
+}
+.enlaces a:hover{
+    color:#347cbf;
+}

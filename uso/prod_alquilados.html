@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Alquilar</title>
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/Bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/generales.css">
+    <link rel="stylesheet" href="../css/gestion.css">
+    <script src="../gestion/js/gestion.js"></script>
+    <script src="../js/clases/Producto.js"></script>
+    <script src="../js/clases/Cliente.js"></script>
+    <script src="../js/clases/Cd.js"></script>
+    <script src="../js/clases/Pelicula.js"></script>
+    <script src="../js/clases/Juego.js"></script>
+    <script src="../js/clases/Videoclub.js"></script>
+    <script src="../js/manejo/datos.js"></script>
+    <script src="../js/manejo/tareas.js"></script>
+    <script src="../css/Bootstrap/js/jquery-3.3.1.min.js"></script>
+    <script src="../css/Bootstrap/js/popper.min.js"></script>
+    <script src="../css/Bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/prod_alquilados.js"></script>
+</head>
+<body>
+<div class="pagina  bg-dark">
+    <div class="enlaces text-center  p-5">
+        <div class="menu">
+            <a href="../index.html">
+                <div class="caja-enlace">
+                    GESTIÓN
+                </div>
+            </a>
+            <a href="../uso/index.html">
+                <div class="caja-enlace">
+                    USO
+                </div>
+            </a>
+        </div>
+    </div>
+    <div id="contenedor">
+    </div>
+    <div class="ml-5 pb-3">
+        <h3 class="text-white mb-4">Productos alquilados</h3>
+        <a class="text-info m-3" href="videoclub.html"><img src="../img/atrasw.png" class=" mr-3" alt="">Volver atrás</a>
+    </div>
+
+    <div class="row d-flex  bg-white p-5">
+        <div class="col-4 border border-top-0 border-bottom-0 border-left-0 border-secondary">
+            <cite class="m-4 ">Filtrar búsqueda por: </cite>
+            <label for="r-fecha" class="m-2 pt-2">
+                <input type="radio" class="" name="opcion" value="Clientes" id="r-fecha"> Por fecha de alquiler: <br> Entre
+                <input type="date" id="fech1" class="m-1">  y
+                <input type="date" id="fech2" class="m-1">
+            </label>
+            <label for="r-todos" class="m-2" ><input type="radio" id="r-todos" name="opcion" value="Todos" checked> Mostrar todos</label>
+            <div class="col bg-white d-flex justify-content-center pb-3">
+                <button class="btn btn-success m-4 w-50" id="btn-mostrar" >Mostrar</button>
+            </div>
+        </div>
+
+        <div class=" col contenido w-100 p-3">
+            <table class="table table-light" id="tabla">
+                <thead>
+                <tr>
+                    <th>Producto</th>
+                    <th>Tipo</th>
+                    <th>Estado</th>
+                    <th>Cliente</th>
+                    <th>Fecha alquilado</th>
+                    <th>Fecha devolución</th>
+                </tr>
+                </thead>
+            </table>
+
+        </div>
+    </div>
+
+
+</div>
+</body>
+</html>

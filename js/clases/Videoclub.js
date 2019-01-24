@@ -2,11 +2,12 @@
 
 class Videoclub {
 
-    constructor(nombre) {
+    constructor(nombre, clientes = [], productos = []) {
 
         let _nombre = nombre;
-        let _clientes = new Array();
-        let _productos = new Array();
+        let _clientes = clientes;
+        let _productos = productos;
+
 
         this.setNombre = function (nombre) {
             _nombre = nombre;
@@ -16,21 +17,40 @@ class Videoclub {
             return _nombre;
         };
 
+        this.setClientes = function (clientes) {
+            _clientes = clientes;
+        };
+
         this.anyadirCliente = function (cliente) {
-            _clientes.push(cliente);
+            _clientes.push(cliente.getJSON());
         };
 
         this.getClientes = function () {
             return _clientes;
         };
 
-        this.anyadirProducto = function (producto) {
-            _productos.push(producto);
+        this.setProductos = function (productos) {
+            _productos = productos;
         };
+
+
+
+
+
+        this.addProduct = function (producto) {
+            if (producto instanceof Cd || producto instanceof Juego || producto instanceof Pelicula) {
+                _productos.push(producto.getJSON());
+                return true;
+            } else {
+                return false;
+            }
+        };
+
 
         this.getProductos = function () {
             return _productos;
-        }
+        };
+
     }
 
     toString() {
@@ -50,6 +70,21 @@ class Videoclub {
         return "Nombre VideoClub: " + this.getNombre() + "<br> Productos: " + productos + "<br> Clientes: " + clientes
             ;
     }
+
+    getJSON() {
+        return {
+            "_nombre": this.getNombre(),
+            "_clientes": this.getClientes(),
+            "_productos": this.getProductos(),
+
+        };
+    }
+
+    //SE USA EN buscarVideoClub() método que devuelve un objeto videoclub
+    static getOBJ(json) {
+        return new Videoclub(json._nombre, json._clientes, json._productos);
+    }
+
 }
 
 // let nuevo_videoclub = new Videoclub('PELAYOS SL');

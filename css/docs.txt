@@ -1,2 +1,0 @@
-Color primario : 9404D1;
-Color primario hover more 9124BF;

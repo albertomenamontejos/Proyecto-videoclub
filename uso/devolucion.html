@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Devolución</title>
+    <link rel="stylesheet" href="../css/normalize.css">
+    <link rel="stylesheet" href="../css/Bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/generales.css">
+    <link rel="stylesheet" href="../css/gestion.css">
+    <script src="../gestion/js/gestion.js"></script>
+    <script src="../js/clases/Producto.js"></script>
+    <script src="../js/clases/Cliente.js"></script>
+    <script src="../js/clases/Cd.js"></script>
+    <script src="../js/clases/Pelicula.js"></script>
+    <script src="../js/clases/Juego.js"></script>
+    <script src="../js/clases/Videoclub.js"></script>
+    <script src="../js/manejo/datos.js"></script>
+    <script src="../js/manejo/tareas.js"></script>
+    <script src="../css/Bootstrap/js/jquery-3.3.1.min.js"></script>
+    <script src="../css/Bootstrap/js/popper.min.js"></script>
+    <script src="../css/Bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/devolucion.js"></script>
+</head>
+<body>
+<div class="pagina  bg-dark">
+    <div class="enlaces text-center  p-5">
+        <div class="menu">
+            <a href="../index.html">
+                <div class="caja-enlace">
+                    GESTIÓN
+                </div>
+            </a>
+            <a href="../uso/index.html">
+                <div class="caja-enlace">
+                    USO
+                </div>
+            </a>
+        </div>
+    </div>
+    <div id="contenedor">
+    </div>
+    <div class="ml-5 pb-3">
+        <h3 class="text-white mb-4">Devoluciones</h3>
+        <a class="text-info m-3" href="videoclub.html"><img src="../img/atrasw.png" class=" mr-3" alt="">Volver atrás</a>
+    </div>
+
+</div>
+
+
+
+<div class="row d-flex justify-content-center ">
+<section class="col-6 bg-white  rounded">
+    <div class=" Xcliente text-center border border-info rounded p-3 m-4" style="min-height:300px;">
+        <h3 class="text-center m-3">Hacer devoluciones</h3>
+
+        <cite class="">Seleccione una opción:</cite>
+        <div class="form d-flex justify-content-center m-3 ml-5 mt-5">
+            <div class="todos m-3">
+                <label for="r-todos" class="" ><input type="radio" id="r-todos" name="opcion" value="Todos" checked> Mostrar todos</label>
+            </div>
+            <div class="clientes m-3 d-block">
+                <label for="r-clientes" class="">
+                    <input type="radio" class="" name="opcion" value="Clientes" id="r-clientes"> Clientes
+                    <div class="sel-clientes  d-inline"></div>
+                </label>
+            </div>
+            <div class="ml-5 p-3 ">
+                <button class="btn btn-success ml-3 w-100 text-center" id="btn-mostrar" >Mostrar</button>
+            </div>
+        </div>
+
+    </div>
+    <table class="table table-light text-center " id="tabla">
+        <thead>
+        <tr>
+            <th class="">Cliente</th>
+            <th class="">Producto</th>
+            <th class="">Tipo</th>
+            <th class="">Fecha alquiler</th>
+            <th class="">Acción</th>
+        </tr>
+        </thead>
+    </table>
+</section>
+
+    <section class="col-6 bg-white ">
+        <div class="form d-flex flex-column border border-info rounded p-3 m-4" style="min-height:300px;">
+            <h3 class="text-center mt-4">Historial de devoluciones</h3>
+            <cite class="text-center">Seleccione una opción:</cite>
+            <div class="row">
+                <div class="col-10">
+                    <label for="lf-exacta" class="m-2">
+                        <input type="radio" id="lf-exacta" name="historial" > Fecha exacta de devolución
+                        <input type="date" id="f-exacta">
+                    </label>
+                    <label for="lf-entre" class="m-2">
+                        <input type="radio" id="lf-entre" name="historial"> Fecha de devolución entre
+                        <input type="date" id="fech1"> y
+                        <input type="date" id="fech2">
+                    </label>
+                    <label for="lf-clientes" class="m-2 d-block">
+                        <input type="radio" id="lf-clientes" name="historial"> Cliente
+                        <div class="sel-clientes d-inline"></div>
+                    </label>   <label for="lf-todo" class="m-2 d-block">
+                        <input type="radio" id="lf-todo" name="historial" checked> Mostrar todos
+                    </label>
+
+                </div>
+
+                <div class="col-2 d-flex align-items-end justify-content-center">
+                    <button class="btn btn-success w-100" id="mostrar-historial">Mostrar</button>
+                </div>
+            </div>
+
+        </div>
+
+        <table class="table table-light text-center " id="historial">
+            <thead>
+            <tr>
+                <th class="">Cliente</th>
+                <th class="">Producto</th>
+                <th class="">Tipo</th>
+                <th class="">Fecha alquiler</th>
+                <th class="">Fecha devolución</th>
+            </tr>
+            </thead>
+        </table>
+    </section>
+</div>
+</body>
+</html>
